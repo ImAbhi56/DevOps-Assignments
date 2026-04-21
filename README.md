@@ -6,7 +6,7 @@ This repository contains my hands-on assignments and practice work covering core
 
 ## 📚 Topics Covered
 
-### 🐧 Linux Basics - 
+ 🐧 Linux Basics - 
 - File and directory operations
 - Viewing file contents (`cat`, `head`, `tail`)
 - Searching using `grep`
