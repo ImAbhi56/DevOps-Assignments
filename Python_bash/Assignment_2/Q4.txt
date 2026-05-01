@@ -1,0 +1,26 @@
+Q4. Read from a File
+We used open in read mode and file.read to read and print to display.
+
+Ans: 
+
+f = open('data.txt', "r")
+#read the file
+data = f.read()
+#print the entire file again
+print(data)
+
+
+#close the file after use
+f.close()
+
+PS C:\Users\#LENOVO INDIA\OneDrive\Downloads\DevOps\python_tutorials> python reading_file.py
+When Manager asks:
+Why did the assigned task didn't complete 
+
+Me: Kijiye meeting..meeting! kariye meeting..meeting! 
+        ALHUA MEETING !!
+
+
+ Hello, This is a Serious Meeting!.
+
+
