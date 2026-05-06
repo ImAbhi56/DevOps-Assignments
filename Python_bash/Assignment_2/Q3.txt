@@ -23,5 +23,3 @@ print(data)
 
 #close the file after use
 f.close()
-
-
