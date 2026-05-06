@@ -25,10 +25,3 @@ print(data)
 f.close()
 
 
-
-On Terminal 👍
-
-PS C:\Users\#LENOVO INDIA\OneDrive\Downloads\DevOps\python_tutorials> python writing_file.py
-['When Manager asks:\n', "Why did the assigned task didn't complete \n", '\n', 'Me: Kijiye meeting..meeting! kariye meeting..meeting! \n', '        ALHUA MEETING !!\n', '\n', '\n', ' Hello, This is a Serious Meeting!.\n', '\n', ' Hello, This is a Serious Meeting!.\n']
-
-
